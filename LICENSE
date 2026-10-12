@@ -1,0 +1,66 @@
+PROPRIETARY LICENSE - ALL RIGHTS RESERVED
+
+Copyright (c) 2026 V Krishna Vamshi. All rights reserved.
+
+Project: Fisheyed Panchang Calendar
+(including its HTML, CSS and JavaScript source code, page design and layout,
+calendar and panchang calculation implementation, translations, text content,
+the mascot character artwork and all related files in this repository)
+
+1. OWNERSHIP
+   This software and everything listed above (the "Work") is the exclusive
+   property of V Krishna Vamshi (the "Owner"). No ownership rights are
+   transferred to you. This is NOT an open-source licence.
+
+2. WHAT YOU MAY DO
+   You may view the Work in this repository, and use the viewing and forking
+   features that the GitHub Terms of Service make available to every user,
+   solely for the purpose of reading and evaluating it. You may open the
+   published website as an ordinary visitor.
+
+3. WHAT YOU MAY NOT DO
+   Without the Owner's prior written permission you may not:
+   a) copy, reproduce, republish or host the Work, in whole or in part, on
+      any website, repository, app, package or other medium;
+   b) modify, adapt, translate, build upon or create derivative works from
+      the Work;
+   c) distribute, sell, sublicense, rent, lease or otherwise make the Work
+      available to any third party;
+   d) use the Work, or any part of it, in any personal, commercial or
+      non-commercial project, product or service;
+   e) reverse engineer, decompile, de-obfuscate, unpack or otherwise attempt
+      to extract the source code of any protected or obfuscated build, or
+      attempt to bypass any access, copy or display restriction in the Work;
+   f) remove or alter this notice, the copyright line or any attribution;
+   g) copy, trace, redraw or reuse the mascot character artwork or any other
+      illustration, image or design element in the Work;
+   h) use the Work, its text, artwork or code to train, fine-tune or evaluate
+      any machine-learning or artificial-intelligence model.
+
+4. TERMINATION
+   Any use that breaks this licence ends your permission to view or use the
+   Work immediately. You must then delete every copy you hold.
+
+5. THIRD-PARTY METHODS
+   The astronomical calculations follow published scientific methods
+   (for example the algorithms described by Jean Meeus and the VSOP87
+   planetary theory). The Owner claims no rights in those published methods.
+   This licence applies to the Owner's own implementation, design, text and
+   artwork.
+
+6. NO WARRANTY
+   The Work is provided "as is", without warranty of any kind, express or
+   implied. Panchang times and festival dates are calculated values and may
+   differ by a few minutes, or by a day for some festivals, from other
+   published calendars. The Owner is not liable for any loss or damage
+   arising from the use of the Work.
+
+7. PERMISSIONS
+   To ask for permission to use any part of the Work, contact the Owner
+   through the GitHub profile that publishes this repository. Permission is
+   valid only if it is given in writing by the Owner.
+
+8. GENERAL
+   If any part of this licence cannot be enforced, the remaining parts stay in
+   force. Nothing here limits any right you have under applicable law that
+   cannot be removed by agreement.
